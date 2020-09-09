@@ -1,0 +1,30 @@
+body{
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.jumbotron{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 40px;
+}
+h1{
+    justify-content: center;
+    margin-bottom: 15px;
+   
+}
+form{
+    justify-content: center;
+    align-content: center;
+    margin:auto;
+    width: 400px;
+}
+.form-control{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.btn{
+    margin: 2px;
+}
